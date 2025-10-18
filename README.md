@@ -82,3 +82,9 @@ curl -X POST "http://localhost:8000/products/" \
 - [FastAPI](https://fastapi.tiangolo.com/) - Modern, fast web framework for building APIs
 - [Pydantic](https://pydantic-docs.helpmanual.io/) - Data validation using Python type hints
 - [Uvicorn](https://www.uvicorn.org/) - ASGI server implementation
+
+Reference from - https://youtube.com/playlist?list=PLsyeobzWxl7qF4ASwCZZDXor_Y0YJ3Qfc&si=ackJXu7wwG24Y6ow
+
+Command to Run the frontend : 
+npm install 
+npm run
